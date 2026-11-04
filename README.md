@@ -130,11 +130,7 @@ My personal developer portfolio showcasing my projects, technical skills, and de
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mohdgaliv&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Activity"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdgaliv&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Activity" width="100%" alt="GitHub Contribution Activity Graph" />
 </p>
 
 ---
@@ -142,11 +138,7 @@ My personal developer portfolio showcasing my projects, technical skills, and de
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/mohdgaliv/mohdgaliv/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
+  <img src="https://raw.githubusercontent.com/mohdgaliv/mohdgaliv/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -154,11 +146,7 @@ My personal developer portfolio showcasing my projects, technical skills, and de
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=mohdgaliv&theme=tokyonight&no-frame=true&row=1&column=6"
-    width="100%"
-    alt="GitHub Achievements"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohdgaliv&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Achievements" />
 </p>
 
 ---
