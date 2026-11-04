@@ -1,16 +1,20 @@
-# Hi, I'm Mohd Galiv 👋
+# 👋 Hi, I'm Mohd Galiv
 
 ### Aspiring AI/ML Engineer | Python Developer | Web Developer
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohdgaliv&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mohdgaliv&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Python+Developer;Aspiring+AI%2FML+Engineer;Exploring+Data+Science;Building+Real-World+Projects" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a student from India, passionate about programming, technology, and building practical software projects.
+I'm a student from India 🇮🇳 passionate about programming, technology, and building practical software projects.
 
 - 🌱 Currently learning **Python, DSA, Mathematics, Statistics, and SQL**
 - 🤖 Exploring **Artificial Intelligence, Machine Learning, and Data Science**
@@ -18,68 +22,74 @@ I'm a student from India, passionate about programming, technology, and building
 - 🧠 Improving my problem-solving and programming fundamentals
 - 🔭 Interested in developing useful applications and intelligent systems
 - 🎯 Long-term goal: Become an **AI/ML Engineer**
-- 📍 Based in India 🇮🇳
+- 🌐 Portfolio: [Visit My Portfolio](https://mohdgaliv.github.io/CodewithGaliv/)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Languages and Tools
 
 ### Programming Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python,javascript" height="45" alt="Programming Languages" />
 </p>
 
 ### Web Development
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css" height="45" alt="HTML and CSS" />
+  <img src="https://skillicons.dev/icons?i=html,css" height="45" alt="Web Technologies" />
 </p>
 
 ### Developer Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" alt="Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" alt="Developer Tools" />
 </p>
 
 ### Currently Exploring
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" height="45" alt="NumPy, Pandas and Scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" height="45" alt="Data Science Technologies" />
 </p>
+
+---
+
+## 📚 Current Learning
+
+| Domain | Learning Focus |
+|---|---|
+| Python | Programming Fundamentals |
+| DSA | Data Structures & Problem Solving |
+| Mathematics | Algebra & Linear Algebra |
+| Statistics | Statistical Fundamentals |
+| SQL | Database Fundamentals |
+| Data Science | NumPy & Pandas |
+| AI/ML | Machine Learning Foundations |
+| Web Development | HTML, CSS & JavaScript |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 1. Viral Captions
+
 A web-based caption generator designed to help users create engaging social media captions.
 
 - 🌐 [Live Demo](https://mohdgaliv.github.io/Viral-captions/)
-- 🛠️ Web Development Project
+- 💻 Web Development Project
 
 ### 2. FileTools
+
 A collection of useful online tools for working with digital files.
 
 - 🌐 [Live Demo](https://mohdgaliv.github.io/filetools/)
-- 🛠️ Web Development Project
+- 💻 Web Development Project
 
 ### 3. Personal Portfolio
-My personal portfolio website showcasing my development journey, projects, and technical interests.
+
+My personal developer portfolio showcasing my projects, technical skills, and development journey.
 
 - 🌐 [Visit Portfolio](https://mohdgaliv.github.io/CodewithGaliv/)
-
----
-
-## 📚 Current Learning & Interests
-
-| Area | Focus |
-|---|---|
-| Python | Programming Fundamentals |
-| DSA | Problem Solving |
-| Mathematics | Algebra and Linear Algebra |
-| Statistics | Data Analysis Fundamentals |
-| SQL | Database Fundamentals |
-| Data Science | NumPy and Pandas |
-| AI/ML | Machine Learning Foundations |
-| Web Development | HTML, CSS and JavaScript |
 
 ---
 
@@ -99,7 +109,7 @@ My personal portfolio website showcasing my development journey, projects, and t
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohdgaliv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
@@ -108,10 +118,30 @@ My personal portfolio website showcasing my development journey, projects, and t
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohdgaliv&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=mohdgaliv&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mohdgaliv&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Activity"
+    width="100%"
+    alt="Contribution Activity Graph"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohdgaliv/mohdgaliv/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -119,7 +149,7 @@ My personal portfolio website showcasing my development journey, projects, and t
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohdgaliv&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohdgaliv&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -131,5 +161,5 @@ My personal portfolio website showcasing my development journey, projects, and t
 </p>
 
 <p align="center">
-  Thanks for visiting my GitHub profile! 
+  Thanks for visiting my GitHub profile! ⭐
 </p>
